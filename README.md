@@ -1,5 +1,6 @@
-# stripped-fences
-Stripped fences resource pack for MCBE
+# stripped-fences [![Github All Releases](https://img.shields.io/github/downloads/SuperLlama88888/stripped-fences/total.svg)]()
+
+## Stripped fences resource pack for MCBE
 
 MCBE fences are a pain.
 
