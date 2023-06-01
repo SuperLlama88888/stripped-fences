@@ -1,0 +1,33 @@
+{
+	"format_version": 2,
+	"header": {
+		"name": "Stripped Fences",
+		"description": "Fences are now made to look as if they are made of stripped logs! Made by §6SuperLlama88888§r",
+		"uuid": "643025ca-0999-4027-a55c-0eed1b1e38a2",
+		"version": [1, 0, 0],
+		"min_engine_version": [1, 16, 2]
+	},
+	"modules": [{
+		"type": "resources",
+		"uuid": "16d1cf94-d197-44cf-b5c7-49d031e7fa78",
+		"version": [1, 0, 0]
+	}],
+	"subpacks": [
+		{
+			"folder_name": "generic",
+			"name": "Generic textures\nTops are the same as sides, not designed for fences",
+			"memory_tier": 1
+		},
+		{
+			"folder_name": "default",
+			"name": "Custom textures\nHandmade custom textures for tops and sides, designed for fences",
+			"memory_tier": 1
+		}
+	],
+	"settings": [
+		{
+			"type": "label",
+			"text": "Thanks for using Stripped Fences!"
+		}
+	]
+}

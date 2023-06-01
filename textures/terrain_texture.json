@@ -1,0 +1,54 @@
+{
+	"resource_pack_name": "vanilla",
+	"texture_name": "atlas.terrain",
+	
+	"texture_data": {
+		"stripped_log_tops": {
+			"textures": [
+				"textures/blocks/oak_fence_top",
+				"textures/blocks/spruce_fence_top",
+				"textures/blocks/birch_fence_top",
+				"textures/blocks/jungle_fence_top",
+				"textures/blocks/acacia_fence_top",
+				"textures/blocks/dark_oak_fence_top"
+			]
+		},
+		"stripped_log_sides": {
+			"textures": [
+				"textures/blocks/oak_fence_side",
+				"textures/blocks/spruce_fence_side",
+				"textures/blocks/birch_fence_side",
+				"textures/blocks/jungle_fence_side",
+				"textures/blocks/acacia_fence_side",
+				"textures/blocks/dark_oak_fence_side"
+			]
+		},
+		"stripped_crimson_fence_top": {
+			"textures": "textures/blocks/crimson_fence_top"
+		},
+		"stripped_crimson_fence_side": {
+			"textures": "textures/blocks/crimson_fence_side"
+		},
+		"stripped_warped_fence_top": {
+			"textures": "textures/blocks/warped_fence_top"
+		},
+		"stripped_warped_fence_side": {
+			"textures": "textures/blocks/warped_fence_side"
+		},
+		"stripped_mangrove_fence_top": {
+			"textures": "textures/blocks/mangrove_fence_top"
+		},
+		"stripped_mangrove_fence_side": {
+			"textures": "textures/blocks/mangrove_fence_side"
+		},
+		"stripped_cherry_fence_top": {
+			"textures": "textures/blocks/cherry_fence_top"
+		},
+		"stripped_cherry_fence_side": {
+			"textures": "textures/blocks/cherry_fence_side"
+		}
+	},
+	
+	"padding": 8,
+	"num_mip_levels": 4
+}

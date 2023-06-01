@@ -1,0 +1,52 @@
+{
+	"format_version": [1, 1, 0],
+	
+	"fence": {
+		"sound": "wood",
+		"textures": {
+			"up": "stripped_log_tops",
+			"down": "stripped_log_tops",
+			"side": "stripped_log_sides"
+		}
+	},
+	"crimson_fence": {
+		"sound": "wood",
+		"textures": {
+			// For testing purposes
+			// carried texture uses south (or side) texture; particles use down
+			// "up": "diamond_block",
+			// "down": "gold_block",
+			// "north": "stripped_crimson_stem_side",
+			// "south": "redstone_block",
+			// "east": "iron_block",
+			// "west": "emerald_block"
+			"up": "stripped_crimson_fence_top",
+			"down": "stripped_crimson_fence_top",
+			"side": "stripped_crimson_fence_side"
+		}
+	},
+	"warped_fence": {
+		"sound": "wood",
+		"textures": {
+			"up": "stripped_warped_fence_top",
+			"down": "stripped_warped_fence_top",
+			"side": "stripped_warped_fence_side"
+		}
+	},
+	"mangrove_fence": {
+		"sound": "wood",
+		"textures": {
+			"up": "stripped_mangrove_fence_top",
+			"down": "stripped_mangrove_fence_top",
+			"side": "stripped_mangrove_fence_side"
+		}
+	},
+	"cherry_fence": {
+		"sound": "cherry_wood",
+		"textures": {
+			"up": "stripped_cherry_fence_top",
+			"down": "stripped_cherry_fence_top",
+			"side": "stripped_cherry_fence_side"
+		}
+	}
+}
