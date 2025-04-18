@@ -40,6 +40,18 @@
 		},
 		"stripped_mangrove_fence_side": {
 			"textures": "textures/blocks/stripped_mangrove_log_side"
+		},
+		"stripped_cherry_fence_top": {
+			"textures": "textures/blocks/stripped_cherry_log_top"
+		},
+		"stripped_cherry_fence_side": {
+			"textures": "textures/blocks/stripped_cherry_log_side"
+		},
+		"stripped_pale_oak_fence_top": {
+			"textures": "textures/blocks/stripped_pale_oak_log_top"
+		},
+		"stripped_pale_oak_fence_side": {
+			"textures":  "textures/blocks/stripped_pale_oak_log_side"
 		}
 	},
 	

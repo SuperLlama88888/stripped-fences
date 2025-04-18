@@ -48,5 +48,13 @@
 			"down": "stripped_cherry_fence_top",
 			"side": "stripped_cherry_fence_side"
 		}
+	},
+	"pale_oak_fence": {
+		"sound": "wood",
+		"textures": {
+			"up": "stripped_pale_oak_fence_top",
+			"down": "stripped_pale_oak_fence_top",
+			"side": "stripped_pale_oak_fence_side"
+		}
 	}
 }

@@ -1,10 +1,10 @@
 {
 	"format_version": 2,
 	"header": {
-		"name": "Stripped Fences",
+		"name": "Stripped Fences v1.2",
 		"description": "Fences are now made to look as if they are made of stripped logs! Made by §6SuperLlama88888§r",
 		"uuid": "643025ca-0999-4027-a55c-0eed1b1e38a2",
-		"version": [1, 0, 0],
+		"version": [1, 2, 0],
 		"min_engine_version": [1, 16, 2]
 	},
 	"modules": [{

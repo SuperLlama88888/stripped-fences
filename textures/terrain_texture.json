@@ -46,6 +46,12 @@
 		},
 		"stripped_cherry_fence_side": {
 			"textures": "textures/blocks/cherry_fence_side"
+		},
+		"stripped_pale_oak_fence_top": {
+			"textures": "textures/blocks/pale_oak_fence_top"
+		},
+		"stripped_pale_oak_fence_side": {
+			"textures": "textures/blocks/pale_oak_fence_side"
 		}
 	},
 	
